@@ -1,6 +1,6 @@
 import React from "react";
 
-import useResources from "./userResources";
+import useResources from "../hooks/userResources";
 import UsersList from "./UsersList";
 
 const ResourceList = ({ resource }) => {
